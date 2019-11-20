@@ -2,15 +2,15 @@
 
 //Sentence
 $langsentences = array(
-"TXT_FOOTER_AGREE"           => "By playing LogiTycoon, you agree to our", // "Terms Of Use" link after this sentence
+"TXT_FOOTER_AGREE"           => "Giocando a LogiTycoon, accetti", // "Terms Of Use" link after this sentence
 
-"TXT_COMP_BANKRUPT"          => "Your company is bankrupt. You can start a new company or buy extra money with premium credits.",
+"TXT_COMP_BANKRUPT"          => "La tua compagnia è in bancarotta. Puoi crearne una nuova, o continuare usando crediti premium.",
 
-"TXT_ADBLOCK_1"              => "This game is made possible by displaying online advertisements to our visitors.",
-"TXT_ADBLOCK_2"              => "Please consider supporting us by disabling your ad blocker on our game.",
-"TXT_ADBLOCK_3"              => "Alternatively you can also buy a premium account to disable ads.",
+"TXT_ADBLOCK_1"              => "Questo gioco è vivo grazie alle pubblicità che mostriamo.",
+"TXT_ADBLOCK_2"              => "Per favore per continuare a supportarci disabilita l'adblock.",
+"TXT_ADBLOCK_3"              => "Oppure puoi comprare un account premium per non vedere più le ads.",
 
-"TXT_WELCOME_1"              => "Welcome to LogiTycoon!",
+"TXT_WELCOME_1"              => "Benvenuto su LogiTycoon!",
 "TXT_WELCOME_2"              => "You can start your own transport company right away!",
 "TXT_WELCOME_3"              => "Just follow the tutorial in the yellow bar at the top of the page.",
 "TXT_WELCOME_4"              => "Good luck!",
